@@ -3,7 +3,7 @@ index = 0
 b = -1
 while index < array.length do
   new_array << array[index]*b
-  index +=
+  index +=1
 end
 new_array
 end
