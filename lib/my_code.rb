@@ -8,4 +8,6 @@ end
 return new_array
 end
 
-def 
+def map_to_no_change(source_array)
+new = []
+index = 0
