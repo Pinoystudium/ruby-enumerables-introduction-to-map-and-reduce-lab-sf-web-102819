@@ -1,4 +1,5 @@
 def negativize (array)
+new_array =[]
 index = 0
 b = -1
 while index < array.length do
